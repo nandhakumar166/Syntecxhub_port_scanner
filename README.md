@@ -4,6 +4,7 @@ TCP Port Scanner
 A Python-based TCP Port Scanner built using socket programming to perform network reconnaissance and port enumeration. The tool scans a target host for open ports within a specified range, leveraging multithreading for faster and more efficient concurrent scanning. It provides detailed scan results, including open, closed, and timed-out ports, while implementing robust exception handling and logging for reliability.
 
 Features
+
 TCP port scanning using Python sockets
 Scan a single host across a custom port range
 Multithreaded scanning for improved performance
